@@ -1,0 +1,8 @@
+.validation {
+    display: none;
+}
+
+.validationActive {
+    display: block;
+    color: red;
+}
